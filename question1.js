@@ -14,4 +14,5 @@ function getSequenceLength(elem) {
       inSequence = true;
     }
   }
+  return allElements.length;
 }
